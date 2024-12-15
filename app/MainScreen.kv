@@ -1,0 +1,16 @@
+<MainScreen>:
+    BoxLayout:
+        orientation: 'vertical'
+        Label:
+            text: "MotoMinder"
+            font_size: 62
+            color: 0.92, 0.45, 0
+        Label:
+            text: 'Motorcycle Maintenance made easy!'
+            font_size: 25
+
+        Button:
+            text: "Login"
+            font_size: 25
+            size: 50, 50
+            on_release: app.root.current = 'login'
