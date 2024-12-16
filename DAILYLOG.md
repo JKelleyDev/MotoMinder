@@ -1,4 +1,4 @@
-**Date:** 2024-12-15
+**Date:** 2024-12-15 
 **What I Worked On:**
 - Implemented the initial file structure layout as 
     - /MotoMinder 
